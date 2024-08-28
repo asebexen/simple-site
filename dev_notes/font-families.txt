@@ -1,0 +1,2 @@
+"Quicksand", sans-serif
+"Luckiest Guy", cursive

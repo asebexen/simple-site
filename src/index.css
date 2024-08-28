@@ -1,0 +1,27 @@
+body {
+  margin: 0px;
+}
+
+#app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+html {
+  font-family: 'Quicksand', sans-serif;
+}
+
+a, a:visited, a:active {
+  color: #e21653;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  filter: brightness(1.8)
+}
+
+html {
+  background-color: #f2d7d5;
+}
