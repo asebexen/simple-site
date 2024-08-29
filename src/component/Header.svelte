@@ -23,6 +23,11 @@
     display: flex;
     gap: 2rem;
     justify-content: center;
+    background: #fad8beb3;
+    border-radius: 0.25rem;
+    align-items: center;
+    padding: 0.5rem 0px;
+    margin-bottom: 1rem;
   }
 
   h1 {
@@ -31,6 +36,6 @@
     font-size: 3rem;
     text-align: center;
     margin-block: 0px;
-    padding: 1rem 0rem;
+    padding: 1rem 0rem 0.25rem;
   }
 </style>
