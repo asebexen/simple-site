@@ -23,7 +23,7 @@
     height: 100dvh;
     padding: 8px;
     box-sizing: border-box;
-    background: url('bg.jpg') center / cover fixed;
+    background: url('/bg.jpg') center / cover fixed;
   }
   
   @media (min-width: 640px) {
