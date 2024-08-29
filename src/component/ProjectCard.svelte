@@ -53,10 +53,10 @@
 
   .project-card {
     margin: 0.25rem;
-    background-color: #f0e7e7;
+    background-color: #f4dbccd8;
     padding: 0.25rem;
     border-radius: 0.25rem;
-    box-shadow: 0px 1px 4px #8e032858;
+    box-shadow: 0px 1px 4px #7a081f70;
     display: flex;
     flex-direction: column;
     align-items: stretch;
