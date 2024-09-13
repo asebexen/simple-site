@@ -4,7 +4,7 @@
   import githubLogo from '../assets/github-logo.svg'
 </script>
 <header>
-  <h1>
+  <h1 class='name-header'>
     Arden Sebexen
   </h1>
   <div class='socials-bar'>
@@ -17,25 +17,25 @@
   header {
     display: flex;
     flex-direction: column;
+    background: #fad8beb3;
+    border-radius: 0.25rem;
+    margin-bottom: 1rem;
   }
 
   .socials-bar {
     display: flex;
     gap: 2rem;
     justify-content: center;
-    background: #fad8beb3;
-    border-radius: 0.25rem;
     align-items: center;
-    padding: 0.5rem 0px;
-    margin-bottom: 1rem;
+    padding: 0.25rem 1rem 1rem;
   }
 
-  h1 {
+  .name-header {
     font-family: 'Luckiest Guy', cursive;
     font-weight: 100;
     font-size: 3rem;
     text-align: center;
     margin-block: 0px;
-    padding: 1rem 0rem 0.25rem;
+    padding: 1rem 1rem 0.25rem;
   }
 </style>

@@ -4,14 +4,14 @@
       "name": "Algorithms",
       "description": "A little site that shows some sorting/search algorithm visualizations.",
       "rating": 5,
-      "repoUrl": "https://github.com/fractal-bootcamp/stevensebexen.algorithms2",
+      "repoUrl": "https://github.com/asebexen/stevensebexen.algorithms2",
       "deployUrl": "https://unrivaled-seahorse-670786.netlify.app/"
     },
     {
       "name": "Art site",
       "description": "An abandoned project that now just lets you post pixel art to a feed.",
       "rating": 6,
-      "repoUrl": "https://github.com/ssebexen/stevensebexen.superquest",
+      "repoUrl": "https://github.com/asebexen/stevensebexen.superquest",
       "deployUrl": "https://vercel.com/ssebexens-projects/stevensebexen-superquest"
     },
     {
@@ -25,27 +25,27 @@
       "name": "Simple chat",
       "description": "A very minimal chat client-server pair built with native libraries and WebSocket.",
       "rating": 6,
-      "repoUrl": "https://github.com/ssebexen/stevensebexen.minimal-chat"
+      "repoUrl": "https://github.com/asebexen/stevensebexen.minimal-chat"
     },
     {
       "name": "Collision detection",
       "description": "A collision detection environment that allows users to arbitrarily add boxes.",
       "rating": 7,
-      "repoUrl": "https://github.com/ssebexen/sandbox/tree/main/collision-detection",
-      "deployUrl": "https://ssebexen.github.io/sandbox/collision-detection/build/index.html"
+      "repoUrl": "https://github.com/asebexen/sandbox/tree/main/collision-detection",
+      "deployUrl": "https://asebexen.github.io/sandbox/collision-detection/build/index.html"
     },
     {
       "name": "Sliding block puzzle",
       "description": "Seam widget that lets users turn pictures into postable sliding puzzles.",
       "rating": 7,
-      "repoUrl": "https://github.com/ssebexen/seam-image-puzzle",
+      "repoUrl": "https://github.com/asebexen/seam-image-puzzle",
       "deployUrl": "https://marvelous-florentine-048eff.netlify.app/"
     },
     {
       "name": "Simple auth",
       "description": "A minimal auth server.",
       "rating": 6,
-      "repoUrl": "https://github.com/ssebexen/stevensebexen.simple-auth"
+      "repoUrl": "https://github.com/asebexen/stevensebexen.simple-auth"
     },
     {
       "name": "SIN Component library",
@@ -57,54 +57,54 @@
       "name": "Storybook Components",
       "description": "A component library that I built stuff for.",
       "rating": 7,
-      "repoUrl": "https://github.com/ssebexen/stevensebexen.storybook",
+      "repoUrl": "https://github.com/asebexen/stevensebexen.storybook",
       "deployUrl": "https://admirable-cat-412cdf.netlify.app/?path=/docs/configure-your-project--docs"
     },
     {
       "name": "Svelte Solitaire",
       "description": "A simple pyramid solitaire implementation I made in order to learn Svelte.",
       "rating": 8,
-      "repoUrl": "https://github.com/ssebexen/stevensebexen.svelte-solitaire",
+      "repoUrl": "https://github.com/asebexen/stevensebexen.svelte-solitaire",
       "deployUrl": "https://glittery-horse-3798c1.netlify.app/"
     },
     {
       "name": "Tic Tac Toe",
       "description": "Tic Tac Toe with a minimax explorer.",
       "rating": 8,
-      "repoUrl": "https://github.com/ssebexen/stevensebexen.tictactoe",
+      "repoUrl": "https://github.com/asebexen/stevensebexen.tictactoe",
       "deployUrl": "https://sparkly-taiyaki-256b84.netlify.app/"
     },
     {
       "name": "We Can Be {}",
       "description": "Bullet hell prototype with AI-generated story for Infinite Games Hackathon.",
       "rating": 7,
-      "repoUrl": "https://github.com/ssebexen/we-can-be"
+      "repoUrl": "https://github.com/asebexen/we-can-be"
     },
     {
       "name": "Confection Clacker",
       "description": "Legally distinct collaborative Cookie Clicker. (Redis hosted on free serverless provider that takes ~1-2 minutes to spin up.)",
       "rating": 6,
-      "repoUrl": "https://github.com/ssebexen/stevensebexen.confection-clacker",
+      "repoUrl": "https://github.com/asebexen/stevensebexen.confection-clacker",
       "deployUrl": "https://dapper-fudge-ee287c.netlify.app/"
     },
     {
       "name": "Notable",
       "description": "Todo list thing that saves to localStorage.",
       "rating": 6,
-      "repoUrl": "https://github.com/ssebexen/stevensebexen.todo-zustand",
+      "repoUrl": "https://github.com/asebexen/stevensebexen.todo-zustand",
       "deployUrl": "https://unrivaled-pika-533b2f.netlify.app/"
     },
     {
       "name": "Super Fractal Bros UI",
       "description": "A Smash Bros-\"inspired\" character select screen featuring Fractal Tech developers.",
       "rating": 9,
-      "repoUrl": "https://github.com/fractal-bootcamp/stevensebexen.super-fractal-bros"
+      "repoUrl": "https://github.com/asebexen/stevensebexen.super-fractal-bros"
     },
     {
       "name": "Swords of Fractalia",
       "description": "An in-development game featuring swords with AI-generated lore.",
       "rating": 10,
-      "repoUrl": "https://github.com/ssebexen/swords-of-fractalia"
+      "repoUrl": "https://github.com/asebexen/swords-of-fractalia"
     }
   ]
 }
